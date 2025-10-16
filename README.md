@@ -29,7 +29,7 @@ The HomeElectro Call Centre team handled a total of 5,000 calls between July and
 * The HomeElectro Call centre team maintained a monthly answer call rate ranging from 80% to 82% while consistently achieving 90% resolution rate each month.
 * The Television Department received the most calls during this period where it peaked in August at a total of 382 total calls.
   
-<img width="1353" height="740" alt="image" src="https://github.com/user-attachments/assets/7d31c47b-efd1-4213-8e03-9747aa7310f8" />
+<img width="1320" height="740" alt="image" src="https://github.com/user-attachments/assets/29a0cab1-5d60-46ac-a55e-f31e9a6b051b" />
 
 ### CSAT
 * The team achieved a CSAT score of 82% in July, followed by a  consistent performance of 79% in  August and September.
