@@ -18,7 +18,7 @@ The HomeElectro call centre dataset consists of 5,000 records and includes the f
 
 The HomeElectro Call Centre team handled a total of 5,000 calls between July and September 2025 across all departments.During this period, the team demonstrated strong performance with an average answer rate of 81%, an average speed of answer of 3.74 minutes, and a resolution rate of 90%. The team has achieved a Customer Satisfaction (CSAT) score of 80%, reflecting a good level of service to the customer.
 
-<img width="1460" height="741" alt="Image" src="https://github.com/user-attachments/assets/5219ddf1-ddca-4bb3-aded-44dab4a39478" />
+<img width="1353" height="723" alt="image" src="https://github.com/user-attachments/assets/28f4d346-9f65-481d-a814-c0799e721ec6" />
 
 ## Inside Deep Dive
 
@@ -28,7 +28,7 @@ The HomeElectro Call Centre team handled a total of 5,000 calls between July and
 * The HomeElectro Call centre team maintained a monthly answer call rate ranging from 80% to 82% while consistently achieving 90% resolution rate each month.
 * The Television Department received the most calls during this period where it peaked in August at a total of 382 total calls.
   
-<img width="1279" height="719" alt="Image" src="https://github.com/user-attachments/assets/b4f29f54-40ee-4fed-9b90-dcfa9ed94c2b" />
+<img width="1353" height="740" alt="image" src="https://github.com/user-attachments/assets/7d31c47b-efd1-4213-8e03-9747aa7310f8" />
 
 ### CSAT
 * The team achieved a CSAT score of 82% in July, followed by a  consistent performance of 79% in  August and September.
@@ -41,7 +41,7 @@ The HomeElectro Call Centre team handled a total of 5,000 calls between July and
  * High resolution rate of 90%
  * Among top CSAT score at 82%
 
-<img width="1300" height="734" alt="image" src="https://github.com/user-attachments/assets/4bae7afe-b557-41bd-9195-af3f0d5702b4" />
+<img width="1336" height="734" alt="image" src="https://github.com/user-attachments/assets/1cfebe6a-02c3-4d6f-bd6b-52831053c6d9" />
 
 ## Recommendations
 
