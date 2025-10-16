@@ -37,9 +37,9 @@ The HomeElectro Call Centre team handled a total of 5,000 calls between July and
 
 ### Agent Performance
 * Dan have been selected as the best agents for Q3 2025 in recognition of his outstanding performance, which includes:
- * Highest answer call rate at 83%
- * High resolution rate of 90%
- * Among top CSAT score at 82%
+  * Highest answer call rate at 83%
+  * High resolution rate of 90%
+  * Among top CSAT score at 82%
 
 <img width="1336" height="734" alt="image" src="https://github.com/user-attachments/assets/1cfebe6a-02c3-4d6f-bd6b-52831053c6d9" />
 
