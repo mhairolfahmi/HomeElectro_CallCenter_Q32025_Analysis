@@ -1,4 +1,4 @@
-# HomeElectro CallCenter Q3 2025 Analysis
+# HomeElectro Call Center Q3 2025 Analysis
 ## Project Background
 
 HomeElectro is a small ecommerce company that specialises in selling electrical appliances via websites and ecommerce platforms.
