@@ -12,6 +12,7 @@ Insight and recommendations are provided based on this area:
 
 ## Data Structure
 The HomeElectro call centre dataset consists of 5,000 records and includes the following columns:
+
 <img width="291" height="431" alt="Image" src="https://github.com/user-attachments/assets/1be9a764-cdb7-4044-87f3-0e914a996c79" />
 
 ## Executive Summary
