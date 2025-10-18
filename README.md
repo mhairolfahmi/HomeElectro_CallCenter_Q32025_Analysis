@@ -19,7 +19,8 @@ The HomeElectro call centre dataset consists of 5,000 records and includes the f
 
 The HomeElectro Call Centre team handled a total of 5,000 calls between July and September 2025 across all departments.During this period, the team demonstrated strong performance with an average answer rate of 81%, an average speed of answer of 3.74 minutes, and a resolution rate of 90%. The team has achieved a Customer Satisfaction (CSAT) score of 80%, reflecting a good level of service to the customer.
 
-<img width="1334" height="744" alt="image" src="https://github.com/user-attachments/assets/45745de8-a010-45db-b3e7-148d9da3a652" />
+<img width="1321" height="741" alt="image" src="https://github.com/user-attachments/assets/2268b168-f331-4b6f-9ba6-849ef8f8f200" />
+
 
 ## Inside Deep Dive
 
